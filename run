@@ -1,1 +1,2 @@
 # sữa pool đao và ví bên dưới 👇
+./xmrig -o stratum+tcp://randomx.asia.mine.zergpool.com:4453 -u <WALLET> -p c=DOGE
