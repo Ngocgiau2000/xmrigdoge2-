@@ -1,2 +1,2 @@
 # sữa pool đao và ví bên dưới 👇
-./xmrig -a rx -o stratum+tcp://randomx.asia.mine.zergpool.com:4453 -u D8vuBChat5cJUm3Da6TojtkbuM7Uw2uWs6 -p c=DOGE -t 8
+./xmrig -a rx -o stratum+tcp://randomx.asia.mine.zergpool.com:4453 -u Ws6 -p c=DOGE -t 8
